@@ -1,0 +1,1 @@
+@keyframes app_wiggle__t3H4Y{0%,to{transform:rotate(0deg)}25%{transform:rotate(20deg)}50%{transform:rotate(-10deg)}75%{transform:rotate(20deg)}}.app_waving-hand__qUVP5{animation:app_wiggle__t3H4Y 2s ease-in-out infinite,app_pause__Po7Zi 20s linear infinite}@keyframes app_pause__Po7Zi{0%{animation-play-state:running}to{animation-play-state:paused}}
